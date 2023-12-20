@@ -61,9 +61,11 @@ httpd.serve_forever()
 ```
 ## OUTPUT:
 ### Server Output
-![ServerOutput](serveroutput.png)
+![serveroutput](https://github.com/Adithyaofficial/webserver/assets/147473295/d7825817-423a-4cf0-b0b8-d0d461144ecb)
+
 
 ### Client output
-![serverOutput](clientoutput.png)
+![client1](https://github.com/Adithyaofficial/webserver/assets/147473295/fcab5760-8423-440d-9245-d4af9abbc7ae)
+
 ## RESULT:
 The program is executed succesfully
